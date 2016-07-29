@@ -1,2 +1,3 @@
 # hello-world
 testing testing mic check 1,2,1,2...
+Just downloaded the Git and setting up GitHub now.
